@@ -1,0 +1,17 @@
+{
+  "name": "etcd",
+  "version": "4.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "discover": "node discovery/index.js",
+    "range": "node range/index.js"
+  },
+  "author": "Hkube",
+  "license": "ISC",
+  "dependencies": {
+    "etcd3": "^0.2.7",
+    "prettyjson": "^1.2.1"
+  },
+  "devDependencies": {}
+}

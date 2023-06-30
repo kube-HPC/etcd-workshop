@@ -11,7 +11,7 @@
   "author": "Hkube",
   "license": "ISC",
   "dependencies": {
-    "etcd3": "^0.2.7",
+    "etcd3": "^0.2.13",
     "prettyjson": "^1.2.1"
   },
   "devDependencies": {}
